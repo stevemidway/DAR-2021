@@ -243,10 +243,8 @@ capacity.
 | M Apr 19 | TBD                                        |
 | W Apr 21 | TBD                                        |
 
-### Coronavirus Syllabus Revision
 
-
-#### Recordings
+#### Recordings 
 
 1.  [Assignment 3](https://lsu.zoom.us/rec/play/v8Yuc-_-rz43E9aU4wSDVKIvW47uLqOsgSEfq6EJyEi0VXJRYFCnN7YVMeeCRdBaihI6Twf8_8Hu3v3x?continueMode=true&_x_zm_rtaid=MQ08RFHoSISW-jbHjFzLnA.1585252012346.c5d9512a8ae4515d444459e860e14377&_x_zm_rhtaid=909)
 
