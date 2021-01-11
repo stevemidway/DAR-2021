@@ -46,7 +46,7 @@ data, and program R is beneficial.
 All course materials will be distributed via email or in the course
 repository on Github: <https://github.com/stevemidway/DAR-2021>
 
-Lecture notes and materials will not be posted in the same form as presented in class; however, the companion book for the course will have reference information for nearly all of the lectures and materials can be added upon request <https://bookdown.org/steve_midway/DAR/>.
+Lecture notes and materials will not be posted in the same form as presented in class; however, the companion book for the course will have reference information for nearly all of the lectures and materials can be added upon request <https://bookdown.org/steve_midway/DAR/>
 
 ### Computing
 
