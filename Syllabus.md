@@ -10,6 +10,7 @@ OCS 7001, Section 1
 Dr. Steve Midway, <smidway@lsu.edu>  
 Monday and Wednesday 9–10:20am, ECE Auditorium  
 Credit Hours: 3
+Zoom: <https://lsu.zoom.us/j/8249531601>
 
 **This syllabus represents a good-faith agreement between what I propose
 to cover in this course in exchange for your attendance, attention, and
@@ -44,6 +45,8 @@ data, and program R is beneficial.
 
 All course materials will be distributed via email or in the course
 repository on Github: <https://github.com/stevemidway/DAR-2021>
+
+Lecture notes and materials will not be posted in the same form as presented in class; however, the companion book for the course will have reference information for nearly all of the lectures and materials can be added upon request <https://bookdown.org/steve_midway/DAR/>.
 
 ### Computing
 
@@ -243,10 +246,8 @@ capacity.
 | M Apr 19 | TBD                                        |
 | W Apr 21 | TBD                                        |
 
-### Coronavirus Syllabus Revision
 
-
-#### Recordings
+#### Recordings 
 
 1.  [Assignment 3](https://lsu.zoom.us/rec/play/v8Yuc-_-rz43E9aU4wSDVKIvW47uLqOsgSEfq6EJyEi0VXJRYFCnN7YVMeeCRdBaihI6Twf8_8Hu3v3x?continueMode=true&_x_zm_rtaid=MQ08RFHoSISW-jbHjFzLnA.1585252012346.c5d9512a8ae4515d444459e860e14377&_x_zm_rhtaid=909)
 
