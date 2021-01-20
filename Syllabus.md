@@ -47,7 +47,7 @@ data, and program R is beneficial.
 All course materials will be distributed via email or in the course
 repository on Github: <https://github.com/stevemidway/DAR-2021>
 
-Lecture notes and materials will not be posted in the same form as presented in class; however, the companion book for the course will have reference information for nearly all of the lectures and materials can be added upon request. Access the companion text here:  <https://bookdown.org/steve_midway/DAR/>.
+Lecture notes and materials will not be posted in the same form as presented in class; however, the companion book for the course will have reference information for nearly all of the lectures and materials can be added upon request. Access the companion text here:  <https://bookdown.org/steve_midway/DAR/>
 
 ### Computing
 
@@ -222,7 +222,7 @@ capacity.
 | W Jan 20 | Overview of R, Part I                      |
 | M Jan 25 | Overview of R, Part II                     |
 | W Jan 27 | Principles of Data                         |
-| M Feb 1  | Databases and DMPs                         |
+| M Feb 1  | Databases and DMPs (Guest)                 |
 | W Feb 3  | Github and Markdown                        |
 | M Feb 8  | Exploratory Data Analysis                  |
 | W Feb 10 | Basics of ggplot                           |
