@@ -1,4 +1,4 @@
-Exercise 2: Using Markdown
+Exercise 2: R Markdown
 ================
 DAR Lab
 Spring 2021
