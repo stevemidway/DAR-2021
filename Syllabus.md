@@ -226,26 +226,26 @@ capacity.
 | W Feb 3  | Github and Markdown                        |
 | M Feb 8  | Exploratory Data Analysis                  |
 | W Feb 10 | Basics of ggplot                           |
-| M Feb 15 | Models vs. Estimation                      |
-| W Feb 17 | Anatomy of a Linear Model                  |
-| M Feb 22 | General Linear Models                      |
-| W Feb 24 | Guest Speaker?                             |
-| M Mar 1  | GLMs, Part I                               |
-| W Mar 3  | GLMs, Part II                              |
-| M Mar 8  | Random Effects and Mixed Models, Part I    |
-| W Mar 10 | Random Effects and Mixed Models, Part II   |
-| M Mar 15 | Random Effects and Mixed Models, Part III  |
-| W Mar 17 | Model Selection                            |
-| M Mar 22 | Term Paper Workshop                        |
-| W Mar 24 | Big Data                                   |
-| M Mar 29 | Mapping and Spatial Data, Part I           |
-| W Mar 31 | Mapping and Spatial Data, Part II          |
-| M Apr 5  | Visualization, Part I                      |
-| W Apr 7  | Visualization, Part II                     |
-| M Apr 12 | Reproducible Research                      |
-| W Apr 14 | Infographics (Open House?)                 |
-| M Apr 19 | TBD                                        |
-| W Apr 21 | TBD                                        |
+| M Feb 15 | No Class (Weather)                         |
+| W Feb 17 | No Class (Weather)                         |
+| M Feb 22 | Models vs. Estimation                      |
+| W Feb 24 | Anatomy of a Linear Model                  |
+| M Mar 1  | General Linear Models                      |
+| W Mar 3  | Guest Speaker?                             |
+| M Mar 8  | GLMs, Part I                               |
+| W Mar 10 | GLMs, Part II                              |
+| M Mar 15 | Random Effects and Mixed Models, Part I    |
+| W Mar 17 | Random Effects and Mixed Models, Part II   |
+| M Mar 22 | Random Effects and Mixed Models, Part III  |
+| W Mar 24 | Model Selection                            |
+| M Mar 29 | Term Paper Workshop                        |
+| W Mar 31 | Big Data                                   |
+| M Apr 5  | Mapping and Spatial Data, Part I           |
+| W Apr 7  | Mapping and Spatial Data, Part II          |
+| M Apr 12 | Visualization, Part I                      |
+| W Apr 14 | Visualization, Part II                     |
+| M Apr 19 | Reproducible Research                      |
+| W Apr 21 | Infographics (Open House?)                 |
 
 
 #### Recordings 
