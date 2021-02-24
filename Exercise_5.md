@@ -29,16 +29,18 @@ library(tidyverse)
     dataframe into one with a single column for `year`. Note: this is
     also referred to as making wide data narrow.
 
+<!-- end list -->
+
 ``` r
 Species <- c(rep("A",3),rep("B",3),rep("C",3))
-Year2010 <- rpois(n = 9, lambda = 1)
-Year2011 <- rpois(n = 9, lambda = 3)
-Year2012 <- rpois(n = 9, lambda = 5)
-Year2013 <- rpois(n = 9, lambda = 7)
+Year2017 <- rpois(n = 9, lambda = 1)
+Year2018 <- rpois(n = 9, lambda = 3)
+Year2019 <- rpois(n = 9, lambda = 5)
+Year2020 <- rpois(n = 9, lambda = 7)
 wide.df <- as.data.frame(cbind(Species, Year2017, Year2018, Year2019, Year2020))
 ```
 
-1.  The `stringr` library has a lot of good functions for dealing with
+2.  The `stringr` library has a lot of good functions for dealing with
     strings, which are defined as any values that are bound by single or
     double quotations. The `str_sub()` function is useful for modifying
     strings. For example, in the database you gathered for the question
@@ -48,13 +50,13 @@ wide.df <- as.data.frame(cbind(Species, Year2017, Year2018, Year2019, Year2020))
     `str_sub()` function to remove the term `Year` from data in the
     `Year` column.
 
-2.  We discused `dplyr` in class and reviewed some of its functions.
+3.  We discused `dplyr` in class and reviewed some of its functions.
     Again using the dataframe you generated in Question 1, use the
     `summarise()` function to report the mean number of each `species`
     for each `Year`. You may want to consider the `group_by()` function
     as well.
 
-3.  Finally, `ggplot` is the well known `tidyverse` package for
+4.  Finally, `ggplot` is the well known `tidyverse` package for
     plotting. Consider an appropriate plot type to show species `Counts`
     plotted against `Year`. Add some information, like color or shape,
     to indicate specific species. You are welcome to play with other
