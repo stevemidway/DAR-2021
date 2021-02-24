@@ -1,7 +1,7 @@
 Data Analysis in R  
 Syllabus
 ================
-Spring 2021
+Spring 2021 
 
 ### Course Information
 
@@ -250,7 +250,4 @@ capacity.
 
 #### Recordings 
 
-1.  [Assignment 3](https://lsu.zoom.us/rec/play/v8Yuc-_-rz43E9aU4wSDVKIvW47uLqOsgSEfq6EJyEi0VXJRYFCnN7YVMeeCRdBaihI6Twf8_8Hu3v3x?continueMode=true&_x_zm_rtaid=MQ08RFHoSISW-jbHjFzLnA.1585252012346.c5d9512a8ae4515d444459e860e14377&_x_zm_rhtaid=909)
-
-2.  [30 March 2020: Random Effects, Part
-    II](https://lsu.zoom.us/rec/play/750pf-2o_243TNOSuQSDVvAsW426JqOs0ihKr_QFmB60U3ICYVKkbrobM-LKQIgIMLi7p3GiGGQKW1gS?continueMode=true&_x_zm_rtaid=b60ymy-aQcKuqXEVjBq9gA.1585612516133.2af20cf31ed37fc82ae082af5803c7a8&_x_zm_rhtaid=213)
+1. [24 February 2021: Estimation and Linear Modeling](https://lsu.zoom.us/rec/play/03tUmoZTjXDmliXz20ktvzDLXf-gVrIkOqFy22ctKfl9vZBrhNJJTtvfc4OEXoi1buElN34b9Ydpe00U.eK5mjoMPQFrpqZQr?continueMode=true)
