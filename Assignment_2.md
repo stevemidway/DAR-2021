@@ -52,19 +52,19 @@ code that you used to merge the datasets and create the figures, such
 that I could recreate your work.
 
 **This assignment is due by 9am on February 17, 2021. Please submit the
-assignment via email in a Markdown document that includes code showing
-your work, and the names and roles of everyone in your group.**
+assignment via email in a Markdown-compiled document that includes code
+showing your work, and the names and roles of everyone in your group.**
 
 ### Short list of freely-available data sources
 
-  - National Estuarine Research Reserve System:
+-   National Estuarine Research Reserve System:
     <http://cdmo.baruch.sc.edu/>
-  - Long Term Studies Section:
+-   Long Term Studies Section:
     <https://knb.ecoinformatics.org/knb/style/skins/ltss/>
-  - USGS Water Resources: <http://water.usgs.gov/data/>
-  - Dryad: <http://www.datadryad.org/>
-  - National Climate Data Center: <http://www.ncdc.noaa.gov/>
-  - Long Term Ecological Research:
+-   USGS Water Resources: <http://water.usgs.gov/data/>
+-   Dryad: <http://www.datadryad.org/>
+-   National Climate Data Center: <http://www.ncdc.noaa.gov/>
+-   Long Term Ecological Research:
     <https://portal.lternet.edu/nis/advancedSearch.jsp>
-  - National Oceanographic Data Center:
+-   National Oceanographic Data Center:
     <http://www.nodc.noaa.gov/access/allproducts.html>
