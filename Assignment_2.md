@@ -43,13 +43,15 @@ discussing the group interests and motivating questions, along with
 where the data were found and how they were evaluated prior to use. At
 least one paragraph should be dedicated to each data source going into
 the database, and why it was selected and how it was evaluated for
-inclusion. Include a figure indicating the different data types and the
-relationships between them. Include 2–3 pages with one figure per page
-of the exploratory figures described above. Include a caption below each
-figure. Figures will not be graded on command of figure-making in R, but
-they should convey the point you are trying to make. Finally, include
-code that you used to merge the datasets and create the figures, such
-that I could recreate your work.
+inclusion. Please use data from completely different sources and not
+three queries from the same database. (The objective is to merge data
+that have never seen each other before.) Include a figure indicating the
+different data types and the relationships between them. Include 2–3
+pages with one figure per page of the exploratory figures described
+above. Include a caption below each figure. Figures will not be graded
+on command of figure-making in R, but they should convey the point you
+are trying to make. Finally, include code that you used to merge the
+datasets and create the figures, such that I could recreate your work.
 
 **This assignment is due by 9am on February 17, 2021. Please submit the
 assignment via email in a Markdown-compiled document that includes code
@@ -57,14 +59,14 @@ showing your work, and the names and roles of everyone in your group.**
 
 ### Short list of freely-available data sources
 
--   National Estuarine Research Reserve System:
+  - National Estuarine Research Reserve System:
     <http://cdmo.baruch.sc.edu/>
--   Long Term Studies Section:
+  - Long Term Studies Section:
     <https://knb.ecoinformatics.org/knb/style/skins/ltss/>
--   USGS Water Resources: <http://water.usgs.gov/data/>
--   Dryad: <http://www.datadryad.org/>
--   National Climate Data Center: <http://www.ncdc.noaa.gov/>
--   Long Term Ecological Research:
+  - USGS Water Resources: <http://water.usgs.gov/data/>
+  - Dryad: <http://www.datadryad.org/>
+  - National Climate Data Center: <http://www.ncdc.noaa.gov/>
+  - Long Term Ecological Research:
     <https://portal.lternet.edu/nis/advancedSearch.jsp>
--   National Oceanographic Data Center:
+  - National Oceanographic Data Center:
     <http://www.nodc.noaa.gov/access/allproducts.html>
