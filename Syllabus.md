@@ -231,7 +231,7 @@ capacity.
 | M Feb 22 | Models vs. Estimation                      |
 | W Feb 24 | Anatomy of a Linear Model                  |
 | M Mar 1  | General Linear Models                      |
-| W Mar 3  | Guest Speaker?                             |
+| W Mar 3  | General Linear Models (con't)              |
 | M Mar 8  | GLMs, Part I                               |
 | W Mar 10 | GLMs, Part II                              |
 | M Mar 15 | Random Effects and Mixed Models, Part I    |
