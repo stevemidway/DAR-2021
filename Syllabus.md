@@ -251,3 +251,5 @@ capacity.
 #### Recordings 
 
 1. [24 February 2021: Estimation and Linear Modeling](https://lsu.zoom.us/rec/play/03tUmoZTjXDmliXz20ktvzDLXf-gVrIkOqFy22ctKfl9vZBrhNJJTtvfc4OEXoi1buElN34b9Ydpe00U.eK5mjoMPQFrpqZQr?continueMode=true)
+
+2. [Supplemental Instruction on General Linear Models](https://lsu.zoom.us/rec/share/7VuPks3CXfeY6jBbQsdfbZBEhymR19K1c3FGBnLR81u7aClqiBHcP3yF_ENrPLZJ.gyJ6UJ2dwSXQDBh7)
