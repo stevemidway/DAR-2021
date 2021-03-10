@@ -13,7 +13,7 @@ your course grade.**
 
 ### Contents
 
-  - 5 points: Introduction. Include a paragraph or two introduction.
+  - 5 points: Introduction. Include a paragraph or two of introduction.
     This will likely be much shorter than you would typically write for
     a study, but because the focus of this assignment is on methods and
     results you do not need much introduction. Include just enough to
@@ -42,26 +42,26 @@ your course grade.**
     bookend paragraph or two to just close out the document. Please
     interpret your results and return to any themes in your
     Introduction.
-  - X points: Grammar and writing. You have a college education, so it
+  - 10 points: Grammar and writing. You have a college education, so it
     is assumed you have taken courses in English and grammar. I do not
     intend to be a stickler on this, but at the graduate level, it is
-    expected that you are an effective writer. Please reference books on
+    expected that you are a proficient writer. Please reference books on
     writing and have classmates, labmates, and/or me review your writing
     if you have any questions.
-  - X points: Code. Finally, include any project code in the last
+  - 10 points: Code. Finally, include any project code in the last
     section, and call that a Supplement. **Please do not include any
     code in the main document\!**
-  - X points: Please select a peer-reviewed journal you may be familiar
+  - 10 points: Please select a peer-reviewed journal you may be familiar
     with or would eventually like to submit your research. Use that
     journal’s Guide to Authors to format your paper, and include the
     journal name on the first page so the reader knows where the
     formatting came from.
-  - I don’t care much for page lengths, but for those curious about it,
-    I could see this total assignment being around 5–7 pages. I would
-    think around 2 pages each for the methods and results, and then a
-    few pages at the end that feature figures. But **I would strongly
-    encourage you to focus on addressing the above points and not worry
-    about document length.**
+  - I don’t care much for specific page lengths, but for those curious
+    about it, I could see this total assignment being around 5–7 pages.
+    I would think around 2 pages each for the methods and results, and
+    then a few pages at the end that feature figures. But **I would
+    strongly encourage you to focus on addressing the above points and
+    not worry about document length.**
 
 ### Alternative
 
