@@ -92,7 +92,7 @@ coef(mm1)$species
 # ICC
 vars <- as.data.frame(VarCorr(mm1))
 ICC <- vars$vcov[1] / (vars$vcov[1] + vars$vcov[2])
-ICC #proportion of the total variance in Y that is accounted for by the clustering.
+ICC # Proportion of the total variance in Y that is accounted for by the clustering.
 
 # Random slopes
 mm2 <- lmer(l.pld ~ l.temp + ( 0 + l.temp | species), data = df)
