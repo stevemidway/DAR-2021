@@ -6,7 +6,7 @@ Spring 2021
 This exercise asks you to become familiar with random effects through
 some simple steps.
 
-1.  Find a dataset with some factor that could be considered a random
+1.  Find a dataset with a factor that could be considered a random
     effect.
 
 -   Note that this putative random effect may not turn out to be a great
@@ -30,3 +30,6 @@ some simple steps.
 -   Consider colors and/or shapes to distinguish different groups.
 -   Plot separate models (fitted lines) for each random effect level.
 -   Base plotting can do much of this, as can `ggplot` and others.
+
+**Please email me an R Markdown html-render of your assignment by 5pm
+Tuesday March 23.**
