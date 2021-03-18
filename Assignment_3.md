@@ -41,5 +41,7 @@ one moderate flaw.
 ### Deliverable
 
 Your deliverable will be a 1-page (single spaced) written critique of
-the paper, again, focusing on the methods. This assignment is **due as a
-hard copy by 12pm on Friday March 26, 2021.**
+the paper, again, focusing on the methods. At the top of your critique,
+include the full citation of the paper you reviewed (but I do not need a
+copy of the full paper). This assignment is **due as a hard copy by 12pm
+on Friday March 26, 2021.**
