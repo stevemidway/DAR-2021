@@ -239,7 +239,7 @@ capacity.
 | M Mar 22 | Model Selection                            |
 | W Mar 24 | Model Selection (con't)                    |
 | M Mar 29 | Visualization, Part I                      |
-| W Mar 31 | Visualization, Part II Big Data            |
+| W Mar 31 | Visualization, Part II                     |
 | M Apr 5  | Infographics (Zoom)                        |
 | W Apr 7  | Mapping and Spatial Data (Zoom)            |
 | M Apr 12 |                                            |
