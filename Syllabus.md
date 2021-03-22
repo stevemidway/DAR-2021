@@ -236,14 +236,14 @@ capacity.
 | W Mar 10 | GLMs, Part II                              |
 | M Mar 15 | Random Effects and Mixed Models, Part I    |
 | W Mar 17 | Random Effects and Mixed Models, Part II   |
-| M Mar 22 | Random Effects and Mixed Models, Part III  |
-| W Mar 24 | Model Selection                            |
-| M Mar 29 | Term Paper Workshop                        |
-| W Mar 31 | Big Data                                   |
-| M Apr 5  | Mapping and Spatial Data, Part I           |
-| W Apr 7  | Mapping and Spatial Data, Part II          |
-| M Apr 12 | Visualization, Part I                      |
-| W Apr 14 | Visualization, Part II                     |
+| M Mar 22 | Model Selection                            |
+| W Mar 24 | Model Selection (con't)                    |
+| M Mar 29 | Visualization, Part I                      |
+| W Mar 31 | Visualization, Part II Big Data            |
+| M Apr 5  | Infographics (Zoom)                        |
+| W Apr 7  | Mapping and Spatial Data (Zoom)            |
+| M Apr 12 |                                            |
+| W Apr 14 |                                            |
 | M Apr 19 | Reproducible Research                      |
 | W Apr 21 | Infographics (Open House?)                 |
 
