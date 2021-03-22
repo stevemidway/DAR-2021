@@ -242,7 +242,7 @@ capacity.
 | W Mar 31 | Visualization, Part II                     |
 | M Apr 5  | Infographics (Zoom)                        |
 | W Apr 7  | Mapping and Spatial Data (Zoom)            |
-| M Apr 12 |                                            |
+| M Apr 12 | Team Science                               |
 | W Apr 14 |                                            |
 | M Apr 19 | Reproducible Research                      |
 | W Apr 21 | Infographics (Open House?)                 |
