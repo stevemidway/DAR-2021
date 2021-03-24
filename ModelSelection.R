@@ -53,29 +53,29 @@ plot(leaps,scale="r2")
 
 # Relative Importance
 glm1.AIC.dredge <- dredge(glm1, rank = "AIC") # With great power comes great responsibility
-glm1.dredge
+glm1.AIC.dredge
 glm1.AICc.dredge <- dredge(glm1,rank = "AICc")
 glm1.BIC.dredge <- dredge(glm1,rank = "BIC")
 
 
-glm1.avg <- model.avg(glm1.dredge, cumsum(weight) <= .95) # Average all models in 95% confidence set
-summary(glm1.avg)
-coefs <- glm1.avg$coefficients[2,]
-glm1.ci <- confint(glm1.avg, level=0.95) # Calculate 95% CI
+glm1.AIC.avg <- model.avg(glm1.AIC.dredge, cumsum(weight) <= .95) # Average all models in 95% confidence set
+summary(glm1.AIC.avg)
+coefs <- glm1.AIC.avg$coefficients[2,]
+glm1.ci <- confint(glm1.AIC.avg, level=0.95) # Calculate 95% CI
 glm1.ci
-glm1.imp <- glm1.avg$importance
+glm1.imp <- glm1.AIC.avg$importance
 
 # Compare ITs
 AIC <- cbind(rownames(as.data.frame(glm1.AIC.dredge)), 
-           data.frame(glm1.AIC.dredge[,10], row.names=NULL))
+           data.frame(glm1.AIC.dredge[,11], row.names=NULL))
 colnames(AIC) <- c("Model","AIC")
 
 AICc <- cbind(rownames(as.data.frame(glm1.AICc.dredge)), 
-             data.frame(glm1.AICc.dredge[,10], row.names=NULL))
+             data.frame(glm1.AICc.dredge[,11], row.names=NULL))
 colnames(AICc) <- c("Model","AICc")
 
 BIC <- cbind(rownames(as.data.frame(glm1.BIC.dredge)), 
-             data.frame(glm1.BIC.dredge[,10], row.names=NULL))
+             data.frame(glm1.BIC.dredge[,11], row.names=NULL))
 colnames(BIC) <- c("Model","BIC")
 
 mods <- merge(BIC, AIC, by="Model")
@@ -107,13 +107,13 @@ p1 / p2 / p3
 ##################
 library(caret)
 
-Hg <- read.csv(url("https://raw.githubusercontent.com/stevemidway/DAR-2021/main/fishermen_mercury.csv", header = T))
+Hg <- read.csv(url("https://raw.githubusercontent.com/stevemidway/DAR-2021/main/fishermen_mercury.csv"))
 # Metadata: http://www.stat.ufl.edu/~winner/data/fishermen_mercury.txt
 
 head(Hg)
 names(Hg)
 
-data_ctrl <- trainControl(method = "cv", number = 5)
+data_ctrl <- trainControl(method = "cv", number = 3)
 
 model_cv <- train(MeHg ~ age + weight + fishmlwk, 
                      data = Hg,                        
