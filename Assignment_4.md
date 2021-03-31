@@ -26,7 +26,7 @@ accounts for 20% of your course grade.**
 #### Linear Model
 
 4.  Using the built-in data set `trees`, write a linear model that
-    evaluate the effect of `Height` on `Volume`. (5 points)
+    evaluates the effect of `Height` on `Volume`. (5 points)
 5.  Describe how you evaluated the residuals and what your determination
     is about the residuals. (5 points)
 6.  Try `Girth` instead of `Height` as the independent variable. Is
@@ -58,7 +58,7 @@ accounts for 20% of your course grade.**
     relationships examined in your research area.) In order to get full
     credit, for each example include each the specific attribute(s) of
     the data that qualify it as such. (10 points)
-13. Explain one admonition each for aggregating and disaggregating data?
+13. Explain one admonition each for aggregating and disaggregating data.
     (5 points)
 14. In the `Stat2Data` library, load the `Sparrows` data. Write a mixed
     model for the effect of `WingLength` on `Weight` that includes only
@@ -67,7 +67,7 @@ accounts for 20% of your course grade.**
     `WingLength` on `Weight` by `Treatment`? (5 points)
 16. Using a multipanel plot, show `Treatment`-specific relationships of
     the model in question 14. (5 points)
-17. Example the relationship in question 14 evaluate a random intercepts
+17. Examine the relationship in question 14 with a random intercepts
     model. Provide one reason why this may be a better model and one
     reason why this may not be a better model. (10 points)
 
