@@ -97,8 +97,8 @@ Development Assignments, representing 25% of your course grade.*
     the extent they discuss data collection), the analytical techniques
     used, and the presentation (visualization) of the data and results.
 
-  - **Infographic (15%)**: Each student will produce 2 infographics on
-    marine science topics of their choosing (i.e., it could be your own
+  - **Infographic (15%)**: Each student will produce 1 infographic on a
+    science topics of their choosing (i.e., it could be your own
     research and a topic you are unfamiliar with but would like to learn
     about).
 
