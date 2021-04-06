@@ -253,3 +253,5 @@ capacity.
 1. [24 February 2021: Estimation and Linear Modeling](https://lsu.zoom.us/rec/play/03tUmoZTjXDmliXz20ktvzDLXf-gVrIkOqFy22ctKfl9vZBrhNJJTtvfc4OEXoi1buElN34b9Ydpe00U.eK5mjoMPQFrpqZQr?continueMode=true)
 
 2. [Supplemental Instruction on General Linear Models](https://lsu.zoom.us/rec/share/7VuPks3CXfeY6jBbQsdfbZBEhymR19K1c3FGBnLR81u7aClqiBHcP3yF_ENrPLZJ.gyJ6UJ2dwSXQDBh7)
+
+3. [5 April 2021: Infographics](https://lsu.zoom.us/rec/play/jarTrJ4sREniXS2jcoV2Gr07VWnQX8w9B9aNecoV8WcLZJU4x5j46l_3k36eUBSn8y7Hp3tO1zROh-eJ.gmFZ9mlyeYWfuJqo?continueMode=true&_x_zm_rtaid=fhVc7o8lSOSiQRYkOCW1FA.1617712001902.99d468fed5c300660188bad2fa06c8ac&_x_zm_rhtaid=633)
