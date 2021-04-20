@@ -81,4 +81,5 @@ content required and is formatted based on the journal of your choice.
 Please also note that the last day I will be available for help on this
 assignment is April 19, 2021.
 
-**A hard-copy of this assignment is due by 5pm on April 23, 2021.**
+**A digital copy (Word or PDF) of this assignment is due by 5pm on April
+23, 2021 and can be emailed.**
